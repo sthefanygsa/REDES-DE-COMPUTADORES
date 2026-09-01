@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-Cisco Networking Academy - Disciplina de Rede de Computadores 2026/2
+Cisco Networking Academy - Rede de Computadores 2026/2
 </div>
